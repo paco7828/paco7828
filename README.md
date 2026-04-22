@@ -11,7 +11,6 @@ Computer Science student from Hungary, focused on embedded systems, electronics,
 <div style="display:flex; align-items:stretch; gap:20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=paco7828&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paco7828&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://gifdb.com/images/high/electronics-circuit-animation-tvut5c5wj4vu932u.gif" height="150"/>
 </div>
 
 ###
