@@ -38,15 +38,6 @@ Computer Science student from Hungary, focused on embedded systems, electronics,
 
 ###
 
-<h2 align="left">AI Usage</h2>
-<ul>
-  <li>ChatGPT – brainstorming</li>
-  <li>Gemini – learning & understanding</li>
-  <li>Claude – coding</li>
-</ul>
-
-###
-
 <h2 align="left">Contacts</h2>
 <div align="left">
   <a href="mailto:koszegipatrik@gmail.com">
