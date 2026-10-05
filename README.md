@@ -43,7 +43,7 @@ Computer Science student from Hungary, focused on embedded systems, electronics,
   <a href="mailto:koszegipatrik@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="http://koszegipatrik.webtelek.hu/">
+  <a href="https://paco7828.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/paco7828_">
