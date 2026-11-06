@@ -6,6 +6,7 @@
 Computer Science student from Hungary, focused on embedded systems, electronics, and low-level development.
 </p>
 
+<p>OSHWLab profile: https://oshwlab.com/paco7828/works</p>
 ###
 
 <div style="display:flex; align-items:stretch; gap:20px;">
